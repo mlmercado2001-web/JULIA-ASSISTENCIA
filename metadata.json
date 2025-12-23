@@ -1,7 +1,0 @@
-{
-  "name": "Mersão Tattoo Assistant - Júlia",
-  "description": "A professional AI virtual assistant for a tattoo studio, providing audio-guided budget quotes and appointment scheduling.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
